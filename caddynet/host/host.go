@@ -3,7 +3,7 @@ package host
 import (
 	"github.com/caddyserver/caddy"
 	"github.com/caddyserver/caddy/caddytls"
-	"github.com/pieterlouw/caddy-net/caddynet/netserver"
+	"github.com/danlsgiga/caddy-net/caddynet/netserver"
 )
 
 func init() {
